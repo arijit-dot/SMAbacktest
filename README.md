@@ -10,7 +10,7 @@ Long when short SMA > long SMA.
 
 Short when short SMA < long SMA.
 
-Calculates cumulative returns of the strategy and buy-and-hold.
+Calculates the cumulative returns of the strategy and buy-and-hold.
 
 Measures:
 
